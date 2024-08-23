@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rutas3",
-    "slug": "rutas3",
+    "name": "rutas",
+    "slug": "rutas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
